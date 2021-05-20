@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Editor.meta
+    - Assets/Editor/ConditionalHidePropertyDrawer.cs
+    - Assets/Editor/ConditionalHidePropertyDrawer.cs.meta
+    - Assets/Editor/PlanetEditor.cs
+    - Assets/Editor/PlanetEditor.cs.meta
+    - Assets/Editor/PlanetGeneratorEditor.cs
+    - Assets/Editor/PlanetGeneratorEditor.cs.meta
+    - Assets/Graphics.meta
+    - Assets/Graphics/LW.asset
+    - Assets/Graphics/LW.asset.meta
+    - Assets/Graphics/LW_Renderer.asset
+    - Assets/Graphics/LW_Renderer.asset.meta
+    - Assets/Graphics/Planet Material.mat
+    - Assets/Graphics/Planet Material.mat.meta
+    - Assets/Graphics/Planet.shadergraph
+    - Assets/Graphics/Planet.shadergraph.meta
+    - Assets/Graphics/moon mat.mat
+    - Assets/Graphics/moon mat.mat.meta
+    - Assets/Graphics/planet_random.mat
+    - Assets/Graphics/planet_random.mat.meta
+    - Assets/Graphics/sun mat.mat
+    - Assets/Graphics/sun mat.mat.meta
+    - Assets/Resources.meta
+    - Assets/Resources/BillingMode.json
+    - Assets/Resources/BillingMode.json.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Additional Scripts.meta
+    - Assets/Scripts/Additional Scripts/CameraMovement.cs
+    - Assets/Scripts/Additional Scripts/CameraMovement.cs.meta
+    - Assets/Scripts/Additional Scripts/Extentions.cs
+    - Assets/Scripts/Additional Scripts/Extentions.cs.meta
+    - Assets/Scripts/Additional Scripts/PlanetGenerator.cs
+    - Assets/Scripts/Additional Scripts/PlanetGenerator.cs.meta
+    - Assets/Scripts/Additional Scripts/RandomPlanetSettings.cs
+    - Assets/Scripts/Additional Scripts/RandomPlanetSettings.cs.meta
+    - Assets/Scripts/Additional Scripts/RandomValue.cs
+    - Assets/Scripts/Additional Scripts/RandomValue.cs.meta
+    - Assets/Scripts/Additional Scripts/Rotate.cs
+    - Assets/Scripts/Additional Scripts/Rotate.cs.meta
+    - Assets/Scripts/ColourGenerator.cs
+    - Assets/Scripts/ColourGenerator.cs.meta
+    - Assets/Scripts/ColourSettings.cs
+    - Assets/Scripts/ColourSettings.cs.meta
+    - Assets/Scripts/ConditionalHideAttribute.cs
+    - Assets/Scripts/ConditionalHideAttribute.cs.meta
+    - Assets/Scripts/MinMax.cs
+    - Assets/Scripts/MinMax.cs.meta
+    - Assets/Scripts/Noise.cs
+    - Assets/Scripts/Noise.cs.meta
+    - Assets/Scripts/NoiseFilter.cs
+    - Assets/Scripts/NoiseFilter.cs.meta
+    - Assets/Scripts/NoiseFilterFactory.cs
+    - Assets/Scripts/NoiseFilterFactory.cs.meta
+    - Assets/Scripts/NoiseSettings.cs
+    - Assets/Scripts/NoiseSettings.cs.meta
+    - Assets/Scripts/Physics.meta
+    - Assets/Scripts/Physics/Attractor.cs
+    - Assets/Scripts/Physics/Attractor.cs.meta
+    - Assets/Scripts/Physics/GravitationalVelocity.cs
+    - Assets/Scripts/Physics/GravitationalVelocity.cs.meta
+    - Assets/Scripts/Physics/Universe.cs
+    - Assets/Scripts/Physics/Universe.cs.meta
+    - Assets/Scripts/Planet.cs
+    - Assets/Scripts/Planet.cs.meta
+    - Assets/Scripts/RidgidNoiseFilter.cs
+    - Assets/Scripts/RidgidNoiseFilter.cs.meta
+    - Assets/Scripts/ShapeGenerator.cs
+    - Assets/Scripts/ShapeGenerator.cs.meta
+    - Assets/Scripts/ShapeSettings.cs
+    - Assets/Scripts/ShapeSettings.cs.meta
+    - Assets/Scripts/Terrain.cs
+    - Assets/Scripts/Terrain.cs.meta
+    - Assets/Scripts/iNoiseFilter.cs
+    - Assets/Scripts/iNoiseFilter.cs.meta
+    - Assets/Scripts/time settings.meta
+    - Assets/Scripts/time settings/TimeControl.cs
+    - Assets/Scripts/time settings/TimeControl.cs.meta
+    - Assets/Scripts/time settings/TurnCounter.cs
+    - Assets/Scripts/time settings/TurnCounter.cs.meta
+    - Assets/Settings.meta
+    - Assets/Settings/Colour.asset
+    - Assets/Settings/Colour.asset.meta
+    - Assets/Settings/PlanetSettings_Sustainable.asset
+    - Assets/Settings/PlanetSettings_Sustainable.asset.meta
+    - Assets/Settings/Shape.asset
+    - Assets/Settings/Shape.asset.meta
+    - Assets/Settings/moon_colour.asset
+    - Assets/Settings/moon_colour.asset.meta
+    - Assets/Settings/moon_shape.asset
+    - Assets/Settings/moon_shape.asset.meta
+    - Assets/Settings/sun_colour.asset
+    - Assets/Settings/sun_colour.asset.meta
+    - Assets/Settings/sun_shape.asset
+    - Assets/Settings/sun_shape.asset.meta
+    - Assets/prefabs.meta
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
